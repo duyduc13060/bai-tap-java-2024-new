@@ -17,8 +17,6 @@ public class Demonstration {
 		// TODO Auto-generated constructor stub
 	}
     
-    
-    
 	public Demonstration(int demonStrationCode, String nameDemonstration, String issuePlace, Date dateIssue,
 			String responsibleDepartment, Date dateProvided, Date dateCreated) {
 		super();
